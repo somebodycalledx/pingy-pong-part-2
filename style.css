@@ -1,0 +1,15 @@
+body
+{
+   color: rgb(246, 0, 0);
+   background-color: burlywood;
+   text-align: center;
+}
+
+#instruction_button {
+    text-align: right;
+}
+
+canvas {
+    background-color: white;
+    
+}
